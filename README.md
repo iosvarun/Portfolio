@@ -1,12 +1,31 @@
-# Portfolio
-My website portfolio
 
-## Screenshots:
-### Computer View
-![alt text](https://github.com/alisolanki/Portfolio/blob/master/Portfolio.PNG)
+# Portfolio Website - Shubham Singh
 
-### Mobile View
-![alt text](https://github.com/alisolanki/Portfolio/blob/master/Portfolio_mobile.PNG)
+My portfolio displayed in a web page. 
 
-## Author
-* Mohd. Ali Solanki (https://youtube.com/AliSolanki)
+You can find the same [here](https://shubham0812.github.io/).
+
+
+## Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+- SCSS
+
+
+## Code Example
+
+    // Moves the view to the starting of the page
+    
+    $("#navigation .brand a").click(function (e) {
+	    e.preventDefault();
+	    var targetElement = $(this).attr("href");
+	    var targetPosition = $(targetElement).offset().top;
+	    $("html,body").animate({ scrollTop: 0 }, "slow");
+    });
+
+
+## Credits
+
+**©** **Shubham Kumar Singh** | *2020*
+
