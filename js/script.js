@@ -48,7 +48,7 @@ $(document).ready(function () {
         showCursor: false,
         onComplete: function () {
           new Typed(".location-text", {
-            strings: ["Bengaluru, India"],
+            strings: ["Noida, India"],
             typeSpeed: 60,
             loop: false,
             startDelay: 0,

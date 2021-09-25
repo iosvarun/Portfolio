@@ -1,9 +1,9 @@
 
-# Portfolio Website - Shubham Singh
+# Portfolio Website - Varun Varshney
 
 My portfolio displayed in a web page. 
 
-You can find the same [here](https://shubham0812.github.io/).
+You can find the same [here](https://iosvarun.github.io/Portfolio/).
 
 
 ## Technologies Used
@@ -27,5 +27,5 @@ You can find the same [here](https://shubham0812.github.io/).
 
 ## Credits
 
-**©** **Shubham Kumar Singh** | *2020*
+**©** **Varun Varshney** | *2021*
 
